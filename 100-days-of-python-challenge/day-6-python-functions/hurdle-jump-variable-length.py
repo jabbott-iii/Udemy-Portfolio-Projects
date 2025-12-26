@@ -12,11 +12,8 @@ def jump():
     move() # type: ignore
     turn_left() # type: ignore
 
-#number_of_hurdles = 6
-#while number_of_hurdles > 0:
-#     jump()
-#     number_of_hurdles -= 1
-
 while at_goal() == False: # type: ignore
-    jump()
-    
+    if front_is_clear() == True: # type: ignore
+        move() # type: ignore
+    else:
+        jump() # type: ignore
