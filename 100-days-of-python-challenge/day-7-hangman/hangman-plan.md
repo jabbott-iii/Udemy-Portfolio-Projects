@@ -1,2 +1,0 @@
-Create variables for letters, random word generator, and a user input function that asks for a new letter repeatedly.
-Function for comparing user input to indexed letter from random word. if == then print good msg, if =/= then print bad msg. also -= 1 from a pool of 6 for every wrong answer.
