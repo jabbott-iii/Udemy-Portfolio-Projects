@@ -766,24 +766,8 @@ english_verbs = ['Africanize', 'Africanized', 'Africanizes', 'Africanizing', 'Am
                  'resets', 'reside', 'resides', 'resign', 'resigns', 'resist', 'resists', 'resize', 'resizes', 'reskill', 'reskills',
                  'resurface', 'resurfaces', 'resurrect', 'resurrects', 'retail', 'retails', 'retain', 'retains', 'retaliate',
                  'retaliates', 'retaliating', 'retard', 'retards', 'retch', 'retell', 'retelling', 'retells', 'retes', 'rethink',
-                 ''
-rethinking
-rethinks
-rethought
-reticulate
-reticulated
-reticulates
-reticulating
-retie
-retied
-reties
-retile
-retiled
-retiles
-retiling
-retime
-retimed
-retimes
+                 'rethinking', 'rethinks', 'rethought', 'reticulate', 'reticulated', 'reticulates', 'reticulating', 'retie', 'retied',
+                 'reties', 'retile', 'retiled', 'retiles', 'retiling', 'retime', 'retimed', 'retimes',
 retiming
 retire
 retired
