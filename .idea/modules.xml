@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Udemy-Portfolio-Projects.iml" filepath="$PROJECT_DIR$/.idea/Udemy-Portfolio-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-bootcamp/java-bootcamp.iml" filepath="$PROJECT_DIR$/java-bootcamp/java-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-bootcamp/section2/section2.iml" filepath="$PROJECT_DIR$/java-bootcamp/section2/section2.iml" />
     </modules>
   </component>
 </project>
